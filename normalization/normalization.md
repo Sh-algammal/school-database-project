@@ -1,4 +1,3 @@
-```markdown
 # 🗄️ Database Normalization Task: Student Courses
 
 > A comprehensive demonstration of the database normalization process from First Normal Form (1NF) to Third Normal Form (3NF). The goal is to reduce redundancy, eliminate dependency issues, and improve overall data integrity.
