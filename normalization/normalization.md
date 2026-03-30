@@ -157,10 +157,3 @@ This ensures strict data integrity, minimized redundancy, and highly efficient d
 4. Run standard `SELECT` queries with `JOIN` statements to test the relationships.
 
 ---
-
-## 👥 Team Members
-
-- [Add Team Names Here]
-
----
-```
