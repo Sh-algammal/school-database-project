@@ -116,4 +116,3 @@ Developed with ❤️ by:
 * [Sohail Emad](https://github.com/SohailEmad99)
 * [Omar Andeel](https://github.com/OmarAndeel)
 * [Zyad Elshopaky](https://github.com/ZyadElshopaky)
-* 
